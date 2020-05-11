@@ -14,6 +14,6 @@ public class Sample_16 {
 		Gen2<Integer> g1= new Gen2<>(100);
 		g1.display();
 		Gen2<Double> g2= new Gen2<>(2.2);
-		g2.display();  
+		g2.display();  s
 	}
 }
