@@ -21,8 +21,10 @@ public class Sample_8 {
 	dd
 
 	
-	dd
 
 	}
+=======
+	}ssssdd
+>>>>>>> feature/1.3
 
 }
